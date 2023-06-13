@@ -8,7 +8,7 @@
 - [AXIOS]()
 - [PHOSPOR-REACT]()
 - [CONTEXT]()
-- [RADIX-UI]()
+- [ASYNC-STORAGE]()
 
 <h1> Descrição </h1>
 <p> Projeto desenvolvido com react native com intuito de ser um app que mostra personagens de star wars, consumindo uma api de star wars. </p>
